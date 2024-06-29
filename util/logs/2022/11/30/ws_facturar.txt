@@ -1,0 +1,180 @@
+2022-11-30 03:30:48 >>> Array
+(
+    [GenerarFacturaResult] => Array
+        (
+            [Estado] => 0
+            [Error] => Referencia a cadena no establecida como una instancia de cadena.
+Nombre del parámetro: s
+            [Numero_factura] => 0
+        )
+
+)
+
+2022-11-30 03:41:26 >>> Array
+(
+    [GenerarFacturaResult] => Array
+        (
+            [Estado] => 0
+            [Error] => Referencia a cadena no establecida como una instancia de cadena.
+Nombre del parámetro: s
+            [Numero_factura] => 0
+        )
+
+)
+
+2022-11-30 03:41:41 >>> Array
+(
+    [GenerarFacturaResult] => Array
+        (
+            [Estado] => 0
+            [Error] => Referencia a cadena no establecida como una instancia de cadena.
+Nombre del parámetro: s
+            [Numero_factura] => 0
+        )
+
+)
+
+2022-11-30 03:42:47 >>> Array
+(
+    [GenerarFacturaResult] => Array
+        (
+            [Estado] => 0
+            [Error] => Referencia a cadena no establecida como una instancia de cadena.
+Nombre del parámetro: s
+            [Numero_factura] => 0
+        )
+
+)
+
+2022-11-30 04:24:36 >>> Array
+(
+    [GenerarFacturaResult] => Array
+        (
+            [Estado] => 0
+            [Error] => Referencia a cadena no establecida como una instancia de cadena.
+Nombre del parámetro: s
+            [Numero_factura] => 0
+        )
+
+)
+
+2022-11-30 04:37:27 >>> Array
+(
+    [GenerarFacturaResult] => Array
+        (
+            [Estado] => 0
+            [Error] => Referencia a cadena no establecida como una instancia de cadena.
+Nombre del parámetro: s
+            [Numero_factura] => 0
+        )
+
+)
+
+2022-11-30 04:37:37 >>> Array
+(
+    [GenerarFacturaResult] => Array
+        (
+            [Estado] => 0
+            [Error] => Referencia a cadena no establecida como una instancia de cadena.
+Nombre del parámetro: s
+            [Numero_factura] => 0
+        )
+
+)
+
+2022-11-30 04:38:50 >>> Array
+(
+    [GenerarFacturaResult] => Array
+        (
+            [Estado] => 0
+            [Error] => Referencia a cadena no establecida como una instancia de cadena.
+Nombre del parámetro: s
+            [Numero_factura] => 0
+        )
+
+)
+
+2022-11-30 04:39:51 >>> Array
+(
+    [GenerarFacturaResult] => Array
+        (
+            [Estado] => 0
+            [Error] => Referencia a cadena no establecida como una instancia de cadena.
+Nombre del parámetro: s
+            [Numero_factura] => 0
+        )
+
+)
+
+2022-11-30 04:39:55 >>> Array
+(
+    [GenerarFacturaResult] => Array
+        (
+            [Estado] => 0
+            [Error] => Referencia a cadena no establecida como una instancia de cadena.
+Nombre del parámetro: s
+            [Numero_factura] => 0
+        )
+
+)
+
+2022-11-30 04:48:30 >>> Array
+(
+    [GenerarFacturaResult] => Array
+        (
+            [Estado] => 0
+            [Error] => Referencia a cadena no establecida como una instancia de cadena.
+Nombre del parámetro: s
+            [Numero_factura] => 0
+        )
+
+)
+
+2022-11-30 05:08:35 >>> Array
+(
+    [GenerarFacturaResult] => Array
+        (
+            [Estado] => 0
+            [Error] => Referencia a cadena no establecida como una instancia de cadena.
+Nombre del parámetro: s
+            [Numero_factura] => 0
+        )
+
+)
+
+2022-11-30 17:24:44 >>> Array
+(
+    [GenerarFacturaResult] => Array
+        (
+            [Estado] => 0
+            [Error] => Referencia a cadena no establecida como una instancia de cadena.
+Nombre del parámetro: s
+            [Numero_factura] => 0
+        )
+
+)
+
+2022-11-30 17:28:19 >>> Array
+(
+    [GenerarFacturaResult] => Array
+        (
+            [Estado] => 0
+            [Error] => Referencia a cadena no establecida como una instancia de cadena.
+Nombre del parámetro: s
+            [Numero_factura] => 0
+        )
+
+)
+
+2022-11-30 19:23:33 >>> Array
+(
+    [GenerarFacturaResult] => Array
+        (
+            [Estado] => 0
+            [Error] => Referencia a cadena no establecida como una instancia de cadena.
+Nombre del parámetro: s
+            [Numero_factura] => 0
+        )
+
+)
+

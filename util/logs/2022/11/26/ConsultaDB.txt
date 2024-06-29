@@ -1,0 +1,7 @@
+2022-11-26 22:44:15 >>> Error en el query: ( Table 'pedidos.pedidos_cabecera' doesn't exist ) 
+        SELECT a.*, b.nombre
+        FROM pedidos_cabecera AS a 
+        INNER JOIN usuarios AS b ON (a.cliente = b.usuario)
+        WHERE a.vendedor = 'admin'
+        ORDER BY a.idpedcab DESC
+    

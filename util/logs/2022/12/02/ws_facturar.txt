@@ -1,0 +1,11 @@
+2022-12-02 15:05:31 >>> Array
+(
+    [GenerarFacturaResult] => Array
+        (
+            [Estado] => 1
+            [Error] => 
+            [Numero_factura] => 2
+        )
+
+)
+
